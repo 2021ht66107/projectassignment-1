@@ -42,6 +42,8 @@ git clone https://github.com/2021ht66107/projectassignment-1.git clone-of-projec
 ## Create pull-request
 ```
 
+Clone the repo and Create pull-request
+
 While collaborating your work, showcase how conflicts are resolved
 
 Create tag such as open issue, or feature-added
