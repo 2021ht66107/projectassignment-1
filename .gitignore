@@ -1,0 +1,12 @@
+## disallow all
+/*
+
+## selectively allow
+!*.md
+!.gitignore
+
+!docs/
+!scripts
+
+**/*bk
+
